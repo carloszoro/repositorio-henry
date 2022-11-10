@@ -1,0 +1,24 @@
+.textoAzul{
+    color:Blue
+}
+img{
+    width: 400px;
+}
+body{
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-memphis-semitono-azul-lineas-amarillas-formas-circulos_1017-31954.jpg?w=996&t=st=1668061898~exp=1668062498~hmac=65648d0cfd5fb1d125e3c171b875b47e551e536bd97a1b2183a0ff6cc6cdde55');
+}
+div{
+    text-align:center;
+    margin: 0 auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+#thirdDiv{
+    padding: 50px;
+    border: 2px seagreen;
+    width: 500px;
+    height: 600px;
+    background-color: cadetblue;
+}
